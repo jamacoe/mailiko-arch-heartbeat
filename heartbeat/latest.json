@@ -1,11 +1,11 @@
 {
   "schema": "mailiko-arch-heartbeat/1",
-  "seq": 86,
-  "utc": "2026-10-12T10:07:04Z",
+  "seq": 87,
+  "utc": "2026-10-12T11:07:01Z",
   "prev": {
-    "seq": 85,
-    "sha256": "9bdca942bf7ed73250863663b3aed89c80ba431862a07d8db0f2901c8d4327da",
-    "path": "heartbeat/2026/10/12/090704Z.json"
+    "seq": 86,
+    "sha256": "71460801f07dfe528e6c0eb205d8c7e2a197ba1055ac20bf39c49fb83fddeb13",
+    "path": "heartbeat/2026/10/12/100704Z.json"
   },
   "archive": {
     "available": true,
@@ -18,8 +18,8 @@
     "indexSha256": "7eb96a1e4aa3ee307f2830bc2fcc272e16a1842d5587ba2918b7547d851be662"
   },
   "integrity": {
-    "mode": "deep",
-    "checkedUtc": "2026-10-12T10:07:03Z",
+    "mode": "presence",
+    "checkedUtc": "2026-10-12T11:07:01Z",
     "missing": 0,
     "modified": 0,
     "noEvidence": 0,
