@@ -1,0 +1,47 @@
+{
+  "schema": "mailiko-arch-heartbeat/1",
+  "seq": 143,
+  "utc": "2026-10-16T10:07:02Z",
+  "prev": {
+    "seq": 142,
+    "sha256": "1051cd3b0821bb7f2683575082d7ed45409df79fcf67526e4ab8fe55fb67cfee",
+    "path": "heartbeat/2026/10/16/090702Z.json"
+  },
+  "archive": {
+    "available": true,
+    "objects": 46,
+    "bytes": 33374922,
+    "withEvidenceRecord": 46,
+    "disposed": 7,
+    "firstObjectUtc": "2026-10-07T05:10:43Z",
+    "lastObjectUtc": "2026-10-15T14:53:50Z",
+    "indexSha256": "77477cf188e4eb0c1f30ecb5faa3831d7ae832585b0f02b63ce23c1f2675a6d5"
+  },
+  "integrity": {
+    "mode": "presence",
+    "checkedUtc": "2026-10-16T10:07:02Z",
+    "missing": 0,
+    "modified": 0,
+    "noEvidence": 0,
+    "evidenceInvalid": 0,
+    "unregistered": 0
+  },
+  "evidence": {
+    "standard": "BSI TR-03125 (TR-ESOR) M.3 / RFC 4998 ERS",
+    "digestAlgorithm": "SHA512",
+    "tsa": "Izenpe",
+    "runs": 19,
+    "latestRun": {
+      "runId": "20261015-150704Z",
+      "root": "a52739ce6b3779beb6794e32f5ac3af8b1fcf59d399a777f8144d37197040428af8b745dec9de03a1ec4d7ebb7e35d5fc536ecd8b1cedaf4930074270bb3c198",
+      "tsaTime": "2026-10-15T15:07:04Z",
+      "serial": "6c234710cffeb82d6ad0ec1842422e6e",
+      "members": 2,
+      "kind": "initial"
+    }
+  },
+  "host": {
+    "tool": "mailiko-arch",
+    "version": "1.0.0"
+  }
+}
